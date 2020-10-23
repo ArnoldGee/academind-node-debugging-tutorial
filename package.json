@@ -1,0 +1,23 @@
+{
+  "name": "academind-node-debugging-tutorial",
+  "version": "1.0.0",
+  "description": "A basic server created from the Academind node.js tutorial",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArnoldGee/academind-node-debugging-tutorial.git"
+  },
+  "keywords": [
+    "node.js",
+    "tutorial"
+  ],
+  "author": "Arnau Gómez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ArnoldGee/academind-node-debugging-tutorial/issues"
+  },
+  "homepage": "https://github.com/ArnoldGee/academind-node-debugging-tutorial#readme"
+}
